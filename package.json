@@ -1,5 +1,5 @@
 {
-    "name": "restaurant-website-backend",
+    "name": "BoujieCooks_v1-backend",
     "version": "1.0.0",
     "description": "Backend for BoujieCooks restaurant website",
     "main": "server.js",
