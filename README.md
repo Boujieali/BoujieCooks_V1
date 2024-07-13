@@ -1,16 +1,12 @@
-Sure, here's a comprehensive README file for your BoujieCooks project:
-
----
-
 # BoujieCooks
 
 ## Introduction
 
 BoujieCooks is a vibrant, Ghanaian-themed restaurant website that showcases the rich culinary heritage of Ghana. The website offers an engaging user experience with a visually appealing design and features a menu with dishes like Jollof Rice, Fufu, and Banku. Visitors can explore the menu, learn about the restaurant, make reservations, and read customer reviews.
 
-- **Deployed Site:** [BoujieCooks_V1](https://boujieali.github.io/BoujieCooks_VV1/)
+- **Deployed Site:** [BoujieCooks](https://boujieali.github.io/BoujieCooks_VV1/)
 - **Final Project Blog Article:** [Final Project Blog](https://www.linkedin.com/pulse/project-introduction-boujiecooks-alice-adu-gyamfi-th12f/?trackingId=GDIcD8nTSxqObNMDkCBvJQ%3D%3D)
-- **Author(s) LinkedIn:** [Author LinkedIn](https://www.linkedin.com/in/alice-adu-gyamfi-353000213/)
+- **Author(s) LinkedIn:** [Alice Mensah Adu-Gyamfi](https://www.linkedin.com/in/alice-adu-gyamfi-353000213/)
 
 ## Installation
 
